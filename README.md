@@ -1,1 +1,1 @@
-# SampleSuperstore
+# Sample Superstore
